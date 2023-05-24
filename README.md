@@ -9,7 +9,7 @@ ABOUT:
   
  
  DATABASE:
-    You may attempt to recreate the page with the code all you have to do is create these tables as such, once created you can download the code and it will work, one way to get this working is by using myphpadmin through xammp.
+    You may attempt to recreate the page with the code all you have to do is create these tables as such, once created you can download the code and it will work, one way to get this working is by using phpmyadmin through xammp.
     
     - CREATE DATABASE projects;
     
